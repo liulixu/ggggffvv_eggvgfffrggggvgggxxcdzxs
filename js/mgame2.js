@@ -172,7 +172,7 @@ init = function(){
                 }
             }
             if(timeCount <= 70){
-                alert("♡♡♡♡♡♡狗蛋！用时" + $(".rule-description .over-time").text() +"秒 "+"♡♡♡♡♡♡！我喜欢你哦！");
+                alert("♡♡♡♡♡♡狗蛋！用时" + $(".rule-description .over-time").text() +"秒 "+"♡♡♡♡♡♡！666666！");
                 $(".cover").find("button.startGame").text("再来一次");
 
                 $(".cover_inner button.startGame").remove();//移除开始游戏按钮
